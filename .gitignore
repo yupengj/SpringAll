@@ -1,5 +1,31 @@
+
 */.settings/
 */target/
 */.classpath
 */.project
+*/classes/
 
+
+.idea
+
+*.iml
+
+*.ipr
+
+*.iws
+
+.project
+
+.settings
+
+.classpath
+
+33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/target/classes/application.yml
+31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/target/classes/application.yml
+23.Spring-Boot-Admin/Spring Boot Admin Server/target/classes/application.yml
+28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/target/classes/application.yml
+28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/target/classes/application-peer1.yml
+28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/target/classes/application-peer2.yml
+28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/target/classes/application.yml
+28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/target/classes/application.yml
+29.Spring-Cloud-Ribbon-LoadBalance/Ribbon-Consumer/target/classes/application.yml
